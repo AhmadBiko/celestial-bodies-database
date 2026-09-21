@@ -20,6 +20,7 @@ The project focuses on practicing relational database design and SQL fundamental
 
 The main relationships are:
 
+```text
 Galaxy
   │
   └── Star
