@@ -1,20 +1,13 @@
-# Celestial Bodies Database
+# Celestial Bodies Database 🌌🪐
 
-A relational database project built with PostgreSQL as part of my SQL learning journey.
+A PostgreSQL database project mapping out galaxies, stars, planets, and moons to explore relational database structures.
 
-## About the Project
+## Technologies Used
+* **PostgreSQL:** Relational database management.
+* **SQL:** Schema creation, constraints (`PRIMARY KEY`, `FOREIGN KEY`), and data insertion.
 
-This project consists of a database representing celestial bodies and their relationships.
-
-The database contains information about:
-
-- Galaxies
-- Stars
-- Planets
-- Moons
-- Planet types
-
-The project focuses on practicing relational database design and SQL fundamentals.
+## Project Structure
+* `universe.sql`: The complete database dump containing the schema setup, table relationships, and populated celestial data.
 
 ## Database Structure
 
@@ -28,7 +21,3 @@ Galaxy
         └── Planet
               │
               └── Moon
-
-## Author
-
-Ahmad Biko
